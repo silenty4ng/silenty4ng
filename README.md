@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=silenty4ng&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://profile-counter.glitch.me/silenty4ng/count.svg)
+
 ![YANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=silenty4ng)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silenty4ng&langs_count=20&card_width=450&layout=compact)
